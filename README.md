@@ -13,7 +13,7 @@ Welcome! This repository serves as the central hub for my technical projects and
 
 ## 📜 Professional Certifications & Skillset
 * **Certifications:** AWS Certified Cloud Practitioner, CompTIA Security+, ISC2 Certified in Cybersecurity.
-* **Frameworks:** ISO 27001, NIST 800-53, NDPR, SOC2.
+* **Frameworks:** ISO 27001, NIST 800-53, NDPR.
 * **Technical:** AWS Cloud (VPC, IAM, S3, CloudTrail), Git/GitHub, Linux (Kali), Windows Server.
 * **Soft Skills:** Risk Assessment, Technical Writing, Audit Readiness.
 
